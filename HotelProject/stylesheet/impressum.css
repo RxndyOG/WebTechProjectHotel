@@ -1,0 +1,31 @@
+
+
+.impressumText {
+  margin: 0px;
+  color: black;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+  border: 0px;
+  border-style: solid;
+  border-color: black;
+  border-bottom: 1px;
+}
+
+.image{
+  max-height: 300px;
+  min-height: 100px;
+  width: 100%;
+
+  object-fit: scale-down;
+  
+
+}
+.caption {
+  
+  margin-top: 5px;
+  font-size: 18px;
+  font-weight: 300px;
+  text-align: center;
+}
+

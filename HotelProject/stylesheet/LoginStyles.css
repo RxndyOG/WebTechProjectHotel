@@ -1,0 +1,49 @@
+.LogoLogin{
+   
+    height: 100px;
+    justify-self: center;
+}
+
+.buttonAbstand{
+    width: 100%;
+    height: 20px;
+}
+
+.LoginFieldLocation{
+    padding-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    min-width: 300px;
+}
+
+.test{
+    top: 40px;
+    position: relative;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 100px black;
+    max-width: 500px;
+    min-width: 300px;
+    min-height: 200px;
+    margin: 20px;
+    padding: 20px;
+    margin-bottom: 200px;
+}
+
+.formLogin{
+    top: 40px;
+    position: relative;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 100px black;
+    max-width: 500px;
+    margin: 20px;
+    padding: 20px;
+    margin-bottom: 200px;
+}
